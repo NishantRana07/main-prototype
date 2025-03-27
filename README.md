@@ -1,1 +1,1 @@
-Its just a template so no FUCK!
+<h1 align="center">Route Ease</h1>
